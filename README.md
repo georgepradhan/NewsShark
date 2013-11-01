@@ -6,7 +6,7 @@
 
 <p>We built this web application in 7 days. 2 weeks prior, we had never worked with Ruby on Rails. In addition to our custom-built machine learning algorithm and recommendation engine, the project ended with over 97% test coverage across 60+ passing tests and an average of 24 hits per line for 630 relevant lines of code.</p>
 
-### To Launch Site on http://localhost:3000/
+### To launch site on http://localhost:3000/
 
 
   1. Install gems.
