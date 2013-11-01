@@ -34,4 +34,4 @@
 <p>That's it! You're now ready to customize the news for you. Feel free to run rspec to check out our test suite. Comments on all code are welcome.  Thanks!</p>
 
 
-###### developed by Thomas Landon, George Pradhan, Ian Root & Christian Robert Joseph
+###### developed by George Pradhan, Thomas Landon, Ian Root & Christian Robert Joseph
